@@ -1,0 +1,13 @@
+{
+  "name": "generator-marketcloud-react",
+  "version": "0.1.0",
+  "description": "beta generator for the Marketcloud BaaS using React",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": ["yeoman-generator","ecommerce","e-commerce","api","backend as a service","rest","rest api","marketcloud","Marketcloud","BaaS","react"],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
